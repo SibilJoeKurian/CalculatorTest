@@ -7,5 +7,5 @@ npm start<br />
 <br />
 <br />
 <br />
-Please have a look on the TestReport file
+Please have a look on the TestReport.pdf file
 
