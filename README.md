@@ -2,7 +2,7 @@
 
 To Run the project <br />
 npm install <br />
-npm start<br />
+npm test<br />
 
 <br />
 <br />
